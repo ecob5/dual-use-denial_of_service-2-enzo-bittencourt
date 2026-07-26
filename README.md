@@ -4,7 +4,7 @@ This repository contains a bounded, local-only HTTP load-test demonstrator. It i
 
 ## Start time
 
-2026-07-26 (local task start)
+2026-07-26T20:47:12-03:00
 
 ## Run
 
@@ -26,4 +26,4 @@ Safety controls reject non-loopback targets and cap requests at 1,000 and concur
 
 ## End time
 
-Fill this in after local verification.
+2026-07-26T20:47:03-03:00
